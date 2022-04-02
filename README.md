@@ -1,4 +1,4 @@
-# smr-22-ps0
+-# smr-22-ps0
 Please modify the code in file ```prac_input.py```.
 
 Your task is to prompt the user to enter 2 numbers. The print out the first raised to the exponent of the second.
